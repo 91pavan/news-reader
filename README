@@ -5,3 +5,7 @@ Import any of the two folders
 
 IndiaNews Displays Indian News
 WorldNews Displays World News
+
+This application’s main purpose is to browse news articles from Yahoo! News. The application will send AJAX based HTTP requests to a server and parse the XML response to construct the UI. We will utilize the jquery-dotimeout-plugin to illustrate an animation technique where news headlines are displayed one after another at periodic intervals with a fade in/out effect.
+This will give the reader insight into content formatting for jQuery Mobile lists, particularly the ‘split list’. We will also use the DST.js plugin for storing the user’s current news category selections with HTML5 local storage. 
+The web application consists of an HTML file that has the UI code, jQuery Mobile libraries, and jQuery plugins. This particular application is completely coded in jquery mobile framework . —
